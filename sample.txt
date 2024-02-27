@@ -1,0 +1,2 @@
+this is first sample file for git repository
+this is the second line of the repository
